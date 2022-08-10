@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<KeyBindingDef>
+		<category>kathanon_InvisibleGhosts</category>
+		<defName>kathanon_ToggleGhosts</defName>
+		<label>Toggle Showing Blueprint Ghosts</label>
+	</KeyBindingDef>
+
+</Defs>

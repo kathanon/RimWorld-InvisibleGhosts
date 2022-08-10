@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- Toggle -->
+	<kathanon.InvisibleGhosts.Ghost.tip>Toggle showing blueprint ghosts.</kathanon.InvisibleGhosts.Ghost.tip>
+  
+	<!-- Settings -->
+	<kathanon.InvisibleGhosts.ShowPlace.title>Show when placing new</kathanon.InvisibleGhosts.ShowPlace.title>
+	<kathanon.InvisibleGhosts.ShowPlace.desc>Blueprints will always be shown while placing a new blueprint.</kathanon.InvisibleGhosts.ShowPlace.desc>
+	<kathanon.InvisibleGhosts.ShowArchitect.title>Show with Architect menu</kathanon.InvisibleGhosts.ShowArchitect.title>
+	<kathanon.InvisibleGhosts.ShowArchitect.desc>Blueprints will always be shown if the Architect menu is open.</kathanon.InvisibleGhosts.ShowArchitect.desc>
+	<kathanon.InvisibleGhosts.Selectable.title>Hidden blueprints selectable</kathanon.InvisibleGhosts.Selectable.title>
+	<kathanon.InvisibleGhosts.Selectable.desc>Currently hidden blueprints can be selected either by clicking or dragging as usual.</kathanon.InvisibleGhosts.Selectable.desc>
+	<kathanon.InvisibleGhosts.Tools.title>Cancel affects hidden blueprints</kathanon.InvisibleGhosts.Tools.title>
+	<kathanon.InvisibleGhosts.Tools.desc>The Cancel command from the Architect menu will affect any blueprints that are currently hidden.</kathanon.InvisibleGhosts.Tools.desc>
+</LanguageData>

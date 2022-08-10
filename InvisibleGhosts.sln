@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7B7008E6-6F9F-4688-B033-8B8F078AD0E1}") = "InvisibleGhosts", "Source\InvisibleGhosts.csproj", "{C3D05270-E773-4067-AEA9-DABE789AF1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D05270-E773-4067-AEA9-DABE789AF1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D05270-E773-4067-AEA9-DABE789AF1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA8A702E-D315-4976-9D53-407EAA3ACA92}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<KeyBindingCategoryDef>
+		<defName>kathanon_InvisibleGhosts</defName>
+		<label>Hide Blueprints</label>
+		<description>Shortcuts for the Hide Blueprints mod.</description>
+	</KeyBindingCategoryDef>
+
+</Defs>
