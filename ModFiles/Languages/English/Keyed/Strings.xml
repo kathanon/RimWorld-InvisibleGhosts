@@ -12,4 +12,7 @@
 	<kathanon.InvisibleGhosts.Selectable.desc>Currently hidden blueprints can be selected either by clicking or dragging as usual.</kathanon.InvisibleGhosts.Selectable.desc>
 	<kathanon.InvisibleGhosts.Tools.title>Cancel affects hidden blueprints</kathanon.InvisibleGhosts.Tools.title>
 	<kathanon.InvisibleGhosts.Tools.desc>The Cancel command from the Architect menu will affect any blueprints that are currently hidden.</kathanon.InvisibleGhosts.Tools.desc>
+	<kathanon.InvisibleGhosts.OnlyFloors.title>Only hide floor blueprints</kathanon.InvisibleGhosts.OnlyFloors.title>
+	<kathanon.InvisibleGhosts.OnlyFloors.desc>Hiding blueprints only affects blueprints for floors.</kathanon.InvisibleGhosts.OnlyFloors.desc>
+
 </LanguageData>

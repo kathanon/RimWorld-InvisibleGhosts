@@ -1,29 +1,28 @@
-﻿using System.Collections.Generic;
-using Verse;
+﻿using Verse;
 
-namespace InvisibleGhosts
-{
-    internal static class Strings
-    {
-        // Non-translated constants
-        public const string MOD_IDENTIFIER = "kathanon.InvisibleGhosts";
-        public const string PREFIX = MOD_IDENTIFIER + ".";
+namespace InvisibleGhosts;
 
-        // Toggle
-        public static readonly string GhostTip = (PREFIX + "Ghost.tip").Translate();
+[StaticConstructorOnStartup]
+public static class Strings {
+    // Non-translated constants
+    public const string ID = "kathanon.InvisibleGhosts";
+    public const string Name = "Hide Blueprints";
 
-        // Settings
-        public static readonly string ShowPlace_title     = (PREFIX + "ShowPlace.title"    ).Translate();
-        public static readonly string ShowPlace_desc      = (PREFIX + "ShowPlace.desc"     ).Translate();
-        public static readonly string ShowArchitect_title = (PREFIX + "ShowArchitect.title").Translate();
-        public static readonly string ShowArchitect_desc  = (PREFIX + "ShowArchitect.desc" ).Translate();
-        public static readonly string Selectable_title    = (PREFIX + "Selectable.title"   ).Translate();
-        public static readonly string Selectable_desc     = (PREFIX + "Selectable.desc"    ).Translate();
-        public static readonly string Tools_title         = (PREFIX + "Tools.title"        ).Translate();
-        public static readonly string Tools_desc          = (PREFIX + "Tools.desc"         ).Translate();
+    // Toggle
+    public static readonly string GhostTip = (ID + ".Ghost.tip").Translate();
 
+    // Settings
+    public static readonly string ShowPlace_title     = (ID + ".ShowPlace.title"    ).Translate();
+    public static readonly string ShowPlace_desc      = (ID + ".ShowPlace.desc"     ).Translate();
+    public static readonly string ShowArchitect_title = (ID + ".ShowArchitect.title").Translate();
+    public static readonly string ShowArchitect_desc  = (ID + ".ShowArchitect.desc" ).Translate();
+    public static readonly string Selectable_title    = (ID + ".Selectable.title"   ).Translate();
+    public static readonly string Selectable_desc     = (ID + ".Selectable.desc"    ).Translate();
+    public static readonly string Tools_title         = (ID + ".Tools.title"        ).Translate();
+    public static readonly string Tools_desc          = (ID + ".Tools.desc"         ).Translate();
+    public static readonly string OnlyFloors_title    = (ID + ".OnlyFloors.title"   ).Translate();
+    public static readonly string OnlyFloors_desc     = (ID + ".OnlyFloors.desc"    ).Translate();
 
-        // Resources
-        public static readonly string GhostTexturePath = MOD_IDENTIFIER + "/Ghost";
-    }
+    // Resources
+    public static readonly string GhostTexturePath = ID + "/Ghost";
 }
